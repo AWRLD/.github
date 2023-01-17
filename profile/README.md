@@ -1,12 +1,13 @@
-## Hi there 👋
+<center>Привет, пользователь!</center>
 
-<!--
+## Используйте наши репозитории в качестве средств отслеживания ошибок.
+Вы можете указать на любую ошибку или предложить идею используя ссылки:
+* [skyblock](https://github.com/AWRLD/skyblock_bug-tracker/issues)
 
-**Here are some ideas to get you started:**
+* [варпы](https://github.com/AWRLD/warps_bug-tracker/issues)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* [арены](https://github.com/AWRLD/arenas_bug-tracker/issues)
+
+* [монстры](https://github.com/AWRLD/monsters_bug-tracker/issues)
+
+* [разное](https://github.com/AWRLD/other_bug-tracker/issues)
